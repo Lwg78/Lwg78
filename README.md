@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Wen Gio 👋
+**Bridging Retail Operations & Artificial Intelligence.**
 
-<!--
-**Lwg78/Lwg78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Retail Ops Professional (10+ years) transitioning into AI Engineering. I build practical systems that solve real-world problems—from automating stocktake variances to decoding genomic sequences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+* **Languages:** Python (Pandas, PyTorch, NumPy)
+* **Engineering:** Docker, GitHub Actions (CI/CD), SQL
+* **Focus:** Process Automation, Deep Learning, Data Engineering
+
+---
+
+### 🚀 Portfolio Projects
+
+| Project | Domain | Tech Stack |
+| :--- | :--- | :--- |
+| **[Genomic Decoder (FlyOS)](https://github.com/Lwg78/genomic-decoder-fly)** | 🧬 **Bio-AI** | `PyTorch` `Transformers` `Biopython` |
+| *An end-to-end Deep Learning pipeline that reads raw DNA sequences and predicts gene expression. Features O(1) lazy-loading for massive datasets and automated reproducibility pipelines.* | | |
+| **[Stocktake Variance Reporter](https://github.com/Lwg78/Stocktake-Variance-Reporter)** | 🛍️ **Retail Ops** | `FastAPI` `Docker` `Pandas` |
+| *A full-stack automation tool designed to cut stocktake reporting time by 99%. Includes a Web Interface for Store Managers and automated "Theft Detection" logic.* | | |
+
+*(Note: My technical assessment for AIAP Batch 22 is hosted in a private repository to maintain integrity.)*
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/wen-gio-lim-a8bb4327/)
