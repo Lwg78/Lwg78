@@ -24,6 +24,13 @@ I am a Retail Ops Professional transitioning into AI Engineering. I build practi
 | **[Enterprise Retail Solution](https://github.com/Lwg78/Enterprise-Solution-for-Supermarket-style-retail)** | **Advanced R&D.** A predictive analytics experiment utilizing **Armstrong Cycle Transformers** to forecast complex sales demand patterns. | Time-Series, PyTorch Transformers |
 | **[Retail Waste System (V1)](https://github.com/Lwg78/retail-waste-management-system)** | **Prototype.** My initial menu-driven application for inventory tracking. Focuses on core CRUD operations and basic analytics. | Python, Matplotlib, Pandas |
 
+### 🧠 AI Engineering & Search Systems
+*Building efficient, modular systems for real-world constraints.*
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Silver Retriever](https://github.com/Lwg78/Silver-Retriever)** | **Offline RAG System.** A modular search engine designed for legacy hardware (No GPUs). Features a **Plugin Architecture** ("The Brain") to detect user intent (Deadlines, Tasks) using TF-IDF instead of heavy LLMs. Includes **CI/CD** and **Smart Chunking**. | Python, Streamlit, Scikit-Learn, GitHub Actions |
+
 ### 🧬 Bio-Informatics & Deep Learning
 *Applying AI to decode complex genomic sequences.*
 
