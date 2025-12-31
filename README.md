@@ -14,6 +14,25 @@ I am a Retail Ops Professional transitioning into AI Engineering. I build practi
 
 ## 📂 Portfolio Projects
 
+### 🐻 Memory Bear: Cognitive Edge AI on Legacy Hardware
+**[View Repository](https://github.com/lwg78/memory-bear-legacy-edge)**
+
+> *Engineered a local, cognitive AI agent capable of running on constrained legacy hardware (2017 MacBook Air) by implementing biologically inspired memory optimization.*
+
+**The Challenge:**
+Running modern Large Language Models (LLMs) requires massive compute. Standard RAG (Retrieval Augmented Generation) often floods the limited context window of small models with irrelevant noise, leading to "amnesia" or hallucinations.
+
+**The Solution:**
+I built a **Cognitive Architecture** that mimics the human brain's memory consolidation process. Instead of a simple FIFO buffer, I implemented a **Dynamic Forgetting Curve** ($R = e^{-t/S}$) to filter information based on salience and rehearsal.
+
+**Key Engineering Achievements:**
+* **Edge Optimization:** Successfully deployed a quantized **Phi-3 Mini (3.8B)** model on a Dual-Core Intel i5 CPU with only 8GB RAM.
+* **Cognitive RAG:** Integrated **Episodic Memory** (Vector DB) and **Semantic Memory** (Knowledge Graph) for human-like recall.
+* **Algorithm Design:** Validated the **Ebbinghaus Decay** algorithm via EDA simulations, reducing context token load by ~60% while retaining critical long-term facts.
+* **Dependency Resolution:** Solved critical ABI conflicts between modern AI libraries (`NumPy 2.x`, `PyTorch`) and legacy macOS environments.
+
+**Tech Stack:** `Python`, `Llama.cpp`, `ChromaDB`, `NetworkX`, `Phi-3`, `Quantization`
+
 ### 🛒 Retail Operations & Supply Chain AI
 *My core focus: Bringing engineering rigor to supermarket logistics.*
 
