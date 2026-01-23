@@ -1,18 +1,26 @@
 ### Hi there, I'm Wen Gio 👋
 **Bridging Retail Operations & Artificial Intelligence.**
 
-I am a Retail Ops Professional transitioning into AI Engineering. I build practical systems that solve real-world problems—from automating stocktake variances to decoding genomic sequences.
+I am a Retail Ops Professional transitioning into AI Engineering. I build practical systems that solve real-world problems—from automating stocktake variances to detecting zero-day phishing attacks.
 
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** Python (Pandas, PyTorch, NumPy)
-* **Engineering:** Docker, GitHub Actions (CI/CD), FastAPI, Streamlit
-* **Focus:** Process Automation, Deep Learning, Data Engineering
+* **Languages:** Python (Pandas, PyTorch, NumPy, Scikit-Learn)
+* **Engineering:** Docker, GitHub Actions (CI/CD), FastAPI, Pytest
+* **Focus:** MLOps, Process Automation, Deep Learning, Cybersecurity
 
 ---
 
 ## 📂 Portfolio Projects
+
+### 🛡️ AI Engineering & Cybersecurity
+*Building robust, modular systems for real-world defense and search.*
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Phishing Detection System](https://github.com/lwg78/phishing-detection)** | **🚀 Production Security Engine.** A hybrid 3-layer defense system (Whitelist → Heuristic Rules → XGBoost) achieving **99.32% F1-score**. Features **Real-time Link Expansion**, **Typosquatting Detection**, and a robust **CI/CD Pipeline**. | Python, XGBoost, GitHub Actions, Pytest |
+| **[Silver Retriever](https://github.com/Lwg78/Silver-Retriever)** | **Offline RAG System.** A modular search engine designed for legacy hardware (No GPUs). Features a **Plugin Architecture** ("The Brain") to detect user intent (Deadlines, Tasks) using TF-IDF instead of heavy LLMs. Includes **Smart Chunking**. | Python, Streamlit, Scikit-Learn, GitHub Actions |
 
 ### 🧠 Cognitive AI & Edge Engineering
 *Engineering intelligent systems that run efficiently on constrained hardware.*
@@ -30,13 +38,6 @@ I am a Retail Ops Professional transitioning into AI Engineering. I build practi
 | **[Stocktake Variance Reporter](https://github.com/Lwg78/Stocktake-Variance-Reporter)** | **Automation Tool.** A full-stack utility designed to cut stocktake reporting time by 99%. Includes "Theft Detection" logic and a web UI. | FastAPI, Docker, Pandas |
 | **[Enterprise Retail Solution](https://github.com/Lwg78/Enterprise-Solution-for-Supermarket-style-retail)** | **Advanced R&D.** A predictive analytics experiment utilizing **Armstrong Cycle Transformers** to forecast complex sales demand patterns. | Time-Series, PyTorch Transformers |
 | **[Retail Waste System (V1)](https://github.com/Lwg78/retail-waste-management-system)** | **Prototype.** My initial menu-driven application for inventory tracking. Focuses on core CRUD operations and basic analytics. | Python, Matplotlib, Pandas |
-
-### 🧠 AI Engineering & Search Systems
-*Building efficient, modular systems for real-world constraints.*
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Silver Retriever](https://github.com/Lwg78/Silver-Retriever)** | **Offline RAG System.** A modular search engine designed for legacy hardware (No GPUs). Features a **Plugin Architecture** ("The Brain") to detect user intent (Deadlines, Tasks) using TF-IDF instead of heavy LLMs. Includes **CI/CD** and **Smart Chunking**. | Python, Streamlit, Scikit-Learn, GitHub Actions |
 
 ### 🧬 Bio-Informatics & Deep Learning
 *Applying AI to decode complex genomic sequences.*
